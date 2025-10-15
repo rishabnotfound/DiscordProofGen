@@ -1,6 +1,6 @@
 # Discord Proof Generator Bot 🤖💼
 
-![Nitro Example](images/1.PNG)
+<img width="722" height="305" alt="image" src="https://github.com/user-attachments/assets/a2f36691-f2ce-4e38-a61c-91c3c05cbdfa" />
 
 Welcome to the Discord Proof Generator Bot, a handy tool that generates fake proofs for Discord Nitro Classic and Nitro Booster subscriptions! With this bot, you can create realistic-looking proofs to showcase your Nitro subscriptions or prank your friends. 🔥💳
 
